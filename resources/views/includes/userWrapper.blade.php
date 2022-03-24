@@ -13,7 +13,7 @@
 </style>
 <div class="row">
 
-    <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+    <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12">
         <div class=" d-flex d-md-flex d-sm-flex justify-content-between mb-2">
         <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#createModal">
             Add Member

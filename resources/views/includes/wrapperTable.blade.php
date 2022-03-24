@@ -2,7 +2,7 @@
 
     <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12 col-12">
 
-        <div class="d-md-flex justify-content-between mb-2">
+        <div class="d-flex d-md-flex d-sm-flex justify-content-between mb-2">
             <div class="dropdown">
                 <button class="btn btn-primary dropdown-toggle" type="button" id="triggerId" data-toggle="dropdown" aria-haspopup="true"
                         aria-expanded="false">
